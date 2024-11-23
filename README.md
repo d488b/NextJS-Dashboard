@@ -1,3 +1,3 @@
 # NextJS-Dashboard
  
-Learning project using Next.js, Typescript, and TailwindCSS.
+Learning project using Next.js, Typescript, TailwindCSS, and Vercel.
